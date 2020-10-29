@@ -13,5 +13,6 @@ choco install python -y
 
 ## 29.10.20
 choco isntall ripgrep -y
+choco install gnuwin32-coreutils.install -y
 
 pause
