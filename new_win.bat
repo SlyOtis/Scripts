@@ -11,4 +11,7 @@ choco install mockoon -y
 ## Version '3.8.5^'
 choco install python -y
 
+## 29.10.20
+choco isntall ripgrep -y
+
 pause
